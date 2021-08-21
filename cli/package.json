@@ -1,12 +1,12 @@
 {
   "name": "@tri-tolstiaka/cli",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "This is the platform for microfrontend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "new:version": "npm publish --access public"
   },
-  "author": "",
+  "author": "tri-tolstiaka",
   "bin": {
     "tolst-cli": "bin/tolst-cli"
   },
